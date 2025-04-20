@@ -1,3 +1,7 @@
+# Pizza Sales Analysis
+
+![image](https://github.com/user-attachments/assets/974f2948-1fb4-4efe-b760-49449586d901)
+
 # Problem Statement & Project Objective
 
 ## Problem Statement
